@@ -1,0 +1,104 @@
+{
+    "nodes": [
+      {
+        "name": "Alexis Ross",
+        "house": "#5c9bd6",
+        "avatar": "https://i.imgur.com/osZFXjT.jpeg"
+      },
+      {
+        "name": "Celian Dresdell",
+        "house": "#DC425C",
+        "avatar": "https://www.zupimages.net/up/22/06/c3c8.png"
+      },
+      {
+        "name": "Lys Ross",
+        "house": "#DC425C",
+        "avatar": "https://2img.net/u/4114/10/33/64/avatars/122-90.jpg"
+      },
+      {
+        "name": "Wendy Fabre",
+        "house": "#DC425C",
+        "avatar": "https://i.imgur.com/rhdYQlA.jpeg"
+      },
+      {
+        "name": "Caspian Matkovic",
+        "house": "#F79E4F",
+        "avatar": "https://i.imgur.com/DAEqQGX.png"
+      },
+      {
+        "name": "Alysse Seth",
+        "house": "#9179A5",
+        "avatar": "https://i.imgur.com/IWkGtsj.png"
+      },
+      {
+        "name": "Yara de Rivera",
+        "house": "#5c9bd6",
+        "avatar": "https://www.zupimages.net/up/22/26/s47i.jpeg"
+      }
+    ],
+    "links": [
+  
+      {
+        "source": "Alexis Ross",
+        "target": "Celian Dresdell",
+        "type": "#FFD700"
+      },
+      {
+        "source": "Alexis Ross",
+        "target": "Lys Ross",
+        "type": "#4590C9"
+      },
+      {
+        "source": "Alexis Ross",
+        "target": "Wendy Fabre",
+        "type": "#4590C9"
+      },
+  
+      {
+        "source": "Alexis Ross",
+        "target": "Caspian Matkovic",
+        "type": "#FFD700"
+      },
+              {
+        "source": "Alexis Ross",
+        "target": "Alysse Seth",
+        "type": "#f9436a"
+      }
+      ,
+      {
+        "source": "Celian Dresdell",
+        "target": "Alysse Seth",
+        "type": "#FFD700"
+      },
+       {
+        "source": "Wendy Fabre",
+        "target": "Yara de Rivera",
+        "type": "#FFD700"
+      }
+      ,
+      {
+        "source": "Celian Dresdell",
+        "target": "Caspian Matkovic",
+        "type": "#AF5CD3"
+      }
+      ,
+  
+      {
+        "source": "Caspian Matkovic",
+        "target": "Alysse Seth",
+        "type": "#4590C9"
+      },
+
+      {
+        "source": "Lys Ross",
+        "target": "Alysse Seth",
+        "type": "#999999"
+      },
+
+      {
+        "source": "Celian Dresdell",
+        "target": "Yara de Rivera",
+        "type": "#ffbdc7"
+      }
+    ]
+  }

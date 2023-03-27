@@ -1,0 +1,49 @@
+{"nodes" : [
+  {
+    "name": "Jonh Doe",
+    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/e76fd710.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Jayson Wymer",
+    "avatar": "https://i.imgur.com/QDRKlns.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Alysse Seth",
+    "avatar": "https://i.imgur.com/1qXg7IA.png",
+    "house": "#9279A6"
+  },
+  {
+    "name": "Daiam M. Wymer",
+    "avatar": "https://www.zupimages.net/up/23/02/6s8g.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Amaryllis L. Brown",
+    "avatar": "https://i.imgur.com/tQ0vjLM.png",
+    "house": "#9279A6"
+  }
+],
+"links" : [
+  {
+    "source": "Jonh Doe",
+    "target": "Jayson Wymer",
+    "type": "#FF00FF"
+  },
+  {
+    "source": "Alysse Seth",
+    "target": "Jayson Wymer",
+    "type": "#FF00FF"
+  },
+  {
+    "source": "Amaryllis L. Brown",
+    "target": "Daiam M. Wymer",
+    "type": "#0F0FF0"
+  },
+  {
+    "source": "Daiam M. Wymer",
+    "target": "Jayson Wymer",
+    "type": "#00FFFF"
+  }
+]}
