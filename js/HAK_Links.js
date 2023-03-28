@@ -27,10 +27,6 @@ d3.json("data/data.json").then((data) => {
     });
     const nodes = data.nodes;
 
-    console.log(links);
-    console.log(nodes);
-
-
     const simulation = d3.forceSimulation(nodes)                
     .force("link", d3.forceLink(links).id(d => d.name))                             
     .force("charge", d3.forceManyBody().strength(-400))        
@@ -141,7 +137,6 @@ d3.json("data/data.json").then((data) => {
         .style("stroke", link => link.type)
       }
       
-      console.log(links);
       isClicking = false;
     }
 
