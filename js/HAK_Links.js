@@ -17,7 +17,7 @@ let svg = d3.select("#graph_container")
 
 
 
-d3.json("../data/data.json").then((data) => {
+d3.json("data/data.json").then((data) => {
 
     let links = [];
     data.links.forEach(link => {
