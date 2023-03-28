@@ -1,49 +1,104 @@
-{"nodes" : [
-  {
-    "name": "Jonh Doe",
-    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/e76fd710.png",
-    "house": "#5C9BD6"
-  },
-  {
-    "name": "Jayson Wymer",
-    "avatar": "https://i.imgur.com/QDRKlns.png",
-    "house": "#DB415B"
-  },
-  {
-    "name": "Alysse Seth",
-    "avatar": "https://i.imgur.com/1qXg7IA.png",
-    "house": "#9279A6"
-  },
-  {
-    "name": "Daiam M. Wymer",
-    "avatar": "https://www.zupimages.net/up/23/02/6s8g.png",
-    "house": "#F79E4F"
-  },
-  {
-    "name": "Amaryllis L. Brown",
-    "avatar": "https://i.imgur.com/tQ0vjLM.png",
-    "house": "#9279A6"
+{
+    "nodes": [
+      {
+        "name": "Alexis Ross",
+        "house": "#5c9bd6",
+        "avatar": "https://i.imgur.com/osZFXjT.jpeg"
+      },
+      {
+        "name": "Celian Dresdell",
+        "house": "#DC425C",
+        "avatar": "https://www.zupimages.net/up/22/06/c3c8.png"
+      },
+      {
+        "name": "Lys Ross",
+        "house": "#DC425C",
+        "avatar": "https://2img.net/u/4114/10/33/64/avatars/122-90.jpg"
+      },
+      {
+        "name": "Wendy Fabre",
+        "house": "#DC425C",
+        "avatar": "https://i.imgur.com/rhdYQlA.jpeg"
+      },
+      {
+        "name": "Caspian Matkovic",
+        "house": "#F79E4F",
+        "avatar": "https://i.imgur.com/DAEqQGX.png"
+      },
+      {
+        "name": "Alysse Seth",
+        "house": "#9179A5",
+        "avatar": "https://i.imgur.com/IWkGtsj.png"
+      },
+      {
+        "name": "Yara de Rivera",
+        "house": "#5c9bd6",
+        "avatar": "https://www.zupimages.net/up/22/26/s47i.jpeg"
+      }
+    ],
+    "links": [
+  
+      {
+        "source": "Alexis Ross",
+        "target": "Celian Dresdell",
+        "type": "#FFD700"
+      },
+      {
+        "source": "Alexis Ross",
+        "target": "Lys Ross",
+        "type": "#4590C9"
+      },
+      {
+        "source": "Alexis Ross",
+        "target": "Wendy Fabre",
+        "type": "#4590C9"
+      },
+  
+      {
+        "source": "Alexis Ross",
+        "target": "Caspian Matkovic",
+        "type": "#FFD700"
+      },
+              {
+        "source": "Alexis Ross",
+        "target": "Alysse Seth",
+        "type": "#f9436a"
+      }
+      ,
+      {
+        "source": "Celian Dresdell",
+        "target": "Alysse Seth",
+        "type": "#FFD700"
+      },
+       {
+        "source": "Wendy Fabre",
+        "target": "Yara de Rivera",
+        "type": "#FFD700"
+      }
+      ,
+      {
+        "source": "Celian Dresdell",
+        "target": "Caspian Matkovic",
+        "type": "#AF5CD3"
+      }
+      ,
+  
+      {
+        "source": "Caspian Matkovic",
+        "target": "Alysse Seth",
+        "type": "#4590C9"
+      },
+
+      {
+        "source": "Lys Ross",
+        "target": "Alysse Seth",
+        "type": "#999999"
+      },
+
+      {
+        "source": "Celian Dresdell",
+        "target": "Yara de Rivera",
+        "type": "#ffbdc7"
+      }
+    ]
   }
-],
-"links" : [
-  {
-    "source": "Jonh Doe",
-    "target": "Jayson Wymer",
-    "type": "#FF00FF"
-  },
-  {
-    "source": "Alysse Seth",
-    "target": "Jayson Wymer",
-    "type": "#FF00FF"
-  },
-  {
-    "source": "Amaryllis L. Brown",
-    "target": "Daiam M. Wymer",
-    "type": "#0F0FF0"
-  },
-  {
-    "source": "Daiam M. Wymer",
-    "target": "Jayson Wymer",
-    "type": "#00FFFF"
-  }
-]}
