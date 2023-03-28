@@ -1,7 +1,7 @@
 "use strict"
 
 var margin = {top: 10, right: 30, bottom: 30, left: 40},
-  width = 400 - margin.left - margin.right,
+  width = 700 - margin.left - margin.right,
   height = 400 - margin.top - margin.bottom;
 
 var nodesSelected = 0;
@@ -34,12 +34,14 @@ d3.json("data/data.json").then((data) => {
 
     const link = svg.append("g")
       .attr("stroke", "#999")
-      .attr("stroke-opacity", 0.6)
+      .attr("stroke-opacity", 1)
     .selectAll("line")
       .data(links)
       .join("line")
-      .attr("stroke-width", d => Math.sqrt(d.value))
+      .attr("stroke-width", 1.5)
       .style("stroke", (d) =>{return d.type;});
+    
+    link.append("title").text(d => d.description)
 
     const nodeContainer = svg.append("g")
     .selectAll(".node")
@@ -97,6 +99,12 @@ d3.json("data/data.json").then((data) => {
         {
           d3.selectAll("line")
             .style("stroke", link => link.type)
+            .filter(link => 
+              {
+                link.selected -= ((link.source === d) || (link.target === d));
+                return link.selected === 0;
+              })
+            
             nodesSelected = 0;
 
           isClicking = false;
