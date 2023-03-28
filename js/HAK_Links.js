@@ -2,7 +2,7 @@
 
 var margin = {top: 10, right: 30, bottom: 30, left: 40},
   width = 700 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
+  height = 500 - margin.top - margin.bottom;
 
 var nodesSelected = 0;
 var isClicking = false;

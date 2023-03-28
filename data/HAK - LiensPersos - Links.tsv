@@ -1,11 +1,11 @@
 Personnage 1	Personnage 2	Type de Lien
 Joan Bronson	Helen Mason	Collègues
 Bo-Ra Gang	Helen Mason	Ami•e•s d'enfance
-Alysse Seth	Lily Seth	Famille
+Alysse Seth	Lily Seth	Tension
 Joan Bronson	Mortimer Chanteloup	Suspicion
 Helen Mason	Caspian Matkovic	Exs
 Lily Seth	Caspian Matkovic	Collègues
-Alysse Seth	Caspian Matkovic	Ami•e•s 
+Alysse Seth	Caspian Matkovic	Ami•e•s d'enfance
 Valeryane Chanteloup	Mortimer Chanteloup	Marié•e•s
 Valeryane Chanteloup	Joan Bronson	Connaissances
 Alexis Ross	Caspian Matkovic	Meilleur•e•s ami•e•s
@@ -18,3 +18,24 @@ Eliott Fauvel	Helen Mason	Connaissances
 Eliott Fauvel	Maxine Dupuy	Ami•e•s 
 Callum Barry	Hob Kendal	Collègues
 Mortimer Chanteloup	Bo-Ra Gang	Rival•e•aux
+Maxine Dupuy	Joan Bronson	Tension
+Caspian Matkovic	Ilya Matkovic	Famille
+Maxine Dupuy	Willow Delacroix	Ami•e•s d'enfance
+Mortimer Chanteloup	Daiam M. Wymer	Ami•e•s 
+Celian Dresdell	Caspian Matkovic	Tension
+Alysse Seth	Celian Dresdell	Famille
+Alysse Seth	Ilya Matkovic	Tension
+Florianne Reyes	Celian Dresdell	Couple
+Florianne Reyes	Alysse Seth	Ami•e•s 
+Florianne Reyes	Alexis Ross	Meilleur•e•s ami•e•s
+Florianne Reyes	Daiam M. Wymer	Connaissances
+Aadhyasri Mehrothra	Daiam M. Wymer	Famille
+Aadhyasri Mehrothra	Caspian Matkovic	Crush
+Aadhyasri Mehrothra	Ilya Matkovic	Ami•e•s d'enfance
+Aadhyasri Mehrothra	Lily Seth	Ami•e•s 
+Aadhyasri Mehrothra	Helen Mason	Tension
+Yara de Rivera	Willow Delacroix	Meilleur•e•s ami•e•s
+Yara de Rivera	Celian Dresdell	Exs
+Yara de Rivera	Ilya Matkovic	Crush
+Yara de Rivera	Alexis Ross	Ami•e•s 
+Helen Mason	Maxine Dupuy	Tension
