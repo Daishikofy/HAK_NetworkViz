@@ -99,6 +99,7 @@ d3.json("data/data.json").then((data) => {
             .style("stroke", link => link.type)
             nodesSelected = 0;
 
+          isClicking = false;
           return;
         }
 
