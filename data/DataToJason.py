@@ -10,9 +10,9 @@ def ReadData(path):
 
 def ReadLinks(path, links):
     df = pd.read_table(path)   
-    df.rename(columns={"Personnage 1": "source", "Personnage 2": "target", "Type de Lien" : "type"}, inplace=True)
-    df.replace(links, inplace = True)
-
+    df.rename(columns={"Personnage 1": "source", "Personnage 2": "target", "Type de Lien" : "description"}, inplace=True)
+    df['type'] = df['description'].map(links)
+    
     return df.to_dict(orient='records')
     
 def ReadNodes(path, houses):

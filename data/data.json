@@ -69,96 +69,115 @@
   {
     "source": "Joan Bronson",
     "target": "Helen Mason",
+    "description": "Coll\u00e8gues",
     "type": "#8bbbe8"
   },
   {
     "source": "Bo-Ra Gang",
     "target": "Helen Mason",
+    "description": "Ami\u2022e\u2022s d'enfance",
     "type": "#ffe077"
   },
   {
     "source": "Alysse Seth",
     "target": "Lily Seth",
+    "description": "Famille",
     "type": "#b6ce88"
   },
   {
     "source": "Joan Bronson",
     "target": "Mortimer Chanteloup",
+    "description": "Suspicion",
     "type": "#d9d2e9"
   },
   {
     "source": "Helen Mason",
     "target": "Caspian Matkovic",
+    "description": "Exs",
     "type": "#8d5c87"
   },
   {
     "source": "Lily Seth",
     "target": "Caspian Matkovic",
+    "description": "Coll\u00e8gues",
     "type": "#8bbbe8"
   },
   {
     "source": "Alysse Seth",
     "target": "Caspian Matkovic",
+    "description": "Ami\u2022e\u2022s ",
     "type": "#fff0bd"
   },
   {
     "source": "Valeryane Chanteloup",
     "target": "Mortimer Chanteloup",
+    "description": "Mari\u00e9\u2022e\u2022s",
     "type": "#f23060"
   },
   {
     "source": "Valeryane Chanteloup",
     "target": "Joan Bronson",
+    "description": "Connaissances",
     "type": "#cbf7ff"
   },
   {
     "source": "Alexis Ross",
     "target": "Caspian Matkovic",
+    "description": "Meilleur\u2022e\u2022s ami\u2022e\u2022s",
     "type": "#fdc918"
   },
   {
     "source": "Alexis Ross",
     "target": "Alysse Seth",
+    "description": "Couple",
     "type": "#f23060"
   },
   {
     "source": "Alexis Ross",
     "target": "Joan Bronson",
+    "description": "Suspicion",
     "type": "#d9d2e9"
   },
   {
     "source": "Alexis Ross",
     "target": "Hob Kendal",
+    "description": "Ami\u2022e\u2022s d'enfance",
     "type": "#ffe077"
   },
   {
     "source": "Eliott Fauvel",
     "target": "Alysse Seth",
+    "description": "Famille",
     "type": "#b6ce88"
   },
   {
     "source": "Eliott Fauvel",
     "target": "Bo-Ra Gang",
+    "description": "Ami\u2022e\u2022s d'enfance",
     "type": "#ffe077"
   },
   {
     "source": "Eliott Fauvel",
     "target": "Helen Mason",
+    "description": "Connaissances",
     "type": "#cbf7ff"
   },
   {
     "source": "Eliott Fauvel",
     "target": "Maxine Dupuy",
+    "description": "Ami\u2022e\u2022s ",
     "type": "#fff0bd"
   },
   {
     "source": "Callum Barry",
     "target": "Hob Kendal",
+    "description": "Coll\u00e8gues",
     "type": "#8bbbe8"
   },
   {
     "source": "Mortimer Chanteloup",
     "target": "Bo-Ra Gang",
+    "description": "Rival\u2022e\u2022aux",
     "type": "#c483ec"
   }
 ]}
