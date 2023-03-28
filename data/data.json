@@ -1,104 +1,164 @@
-{
-    "nodes": [
-      {
-        "name": "Alexis Ross",
-        "house": "#5c9bd6",
-        "avatar": "https://i.imgur.com/osZFXjT.jpeg"
-      },
-      {
-        "name": "Celian Dresdell",
-        "house": "#DC425C",
-        "avatar": "https://www.zupimages.net/up/22/06/c3c8.png"
-      },
-      {
-        "name": "Lys Ross",
-        "house": "#DC425C",
-        "avatar": "https://2img.net/u/4114/10/33/64/avatars/122-90.jpg"
-      },
-      {
-        "name": "Wendy Fabre",
-        "house": "#DC425C",
-        "avatar": "https://i.imgur.com/rhdYQlA.jpeg"
-      },
-      {
-        "name": "Caspian Matkovic",
-        "house": "#F79E4F",
-        "avatar": "https://i.imgur.com/DAEqQGX.png"
-      },
-      {
-        "name": "Alysse Seth",
-        "house": "#9179A5",
-        "avatar": "https://i.imgur.com/IWkGtsj.png"
-      },
-      {
-        "name": "Yara de Rivera",
-        "house": "#5c9bd6",
-        "avatar": "https://www.zupimages.net/up/22/26/s47i.jpeg"
-      }
-    ],
-    "links": [
-  
-      {
-        "source": "Alexis Ross",
-        "target": "Celian Dresdell",
-        "type": "#FFD700"
-      },
-      {
-        "source": "Alexis Ross",
-        "target": "Lys Ross",
-        "type": "#4590C9"
-      },
-      {
-        "source": "Alexis Ross",
-        "target": "Wendy Fabre",
-        "type": "#4590C9"
-      },
-  
-      {
-        "source": "Alexis Ross",
-        "target": "Caspian Matkovic",
-        "type": "#FFD700"
-      },
-              {
-        "source": "Alexis Ross",
-        "target": "Alysse Seth",
-        "type": "#f9436a"
-      }
-      ,
-      {
-        "source": "Celian Dresdell",
-        "target": "Alysse Seth",
-        "type": "#FFD700"
-      },
-       {
-        "source": "Wendy Fabre",
-        "target": "Yara de Rivera",
-        "type": "#FFD700"
-      }
-      ,
-      {
-        "source": "Celian Dresdell",
-        "target": "Caspian Matkovic",
-        "type": "#AF5CD3"
-      }
-      ,
-  
-      {
-        "source": "Caspian Matkovic",
-        "target": "Alysse Seth",
-        "type": "#4590C9"
-      },
-
-      {
-        "source": "Lys Ross",
-        "target": "Alysse Seth",
-        "type": "#999999"
-      },
-
-      {
-        "source": "Celian Dresdell",
-        "target": "Yara de Rivera",
-        "type": "#ffbdc7"
-      }
-    ]
+{"nodes" : [
+  {
+    "name": "Hob Kendal",
+    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/hob110.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Alysse Seth",
+    "avatar": "https://i.imgur.com/IWkGtsj.png",
+    "house": "#9279A6"
+  },
+  {
+    "name": "Joan Bronson",
+    "avatar": "https://media.discordapp.net/attachments/907676174367477851/1082073024636928010/IMG_6009.png",
+    "house": "#9279A6"
+  },
+  {
+    "name": "Bo-Ra Gang",
+    "avatar": "https://images-ext-2.discordapp.net/external/NjR4TL2l0l5Fr3Kf8oE7_QPYLuz9MeLjZxcujXYExaA/https/i.imgur.com/MsfgNIB.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Helen Mason",
+    "avatar": "https://i.imgur.com/y2kH0aS.png",
+    "house": "#9279A6"
+  },
+  {
+    "name": "Lily Seth",
+    "avatar": "https://i.imgur.com/nsBqHRb.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Caspian Matkovic",
+    "avatar": "https://www.zupimages.net/up/22/21/8598.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Maxine Dupuy",
+    "avatar": "https://i.imgur.com/AJchXtz.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Mortimer Chanteloup",
+    "avatar": "https://i.imgur.com/1eJKfWc.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Alexis Ross",
+    "avatar": "https://zupimages.net/up/23/13/nwx7.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Eliott Fauvel",
+    "avatar": "https://zupimages.net/up/23/13/hw0x.png",
+    "house": "#9279A6"
+  },
+  {
+    "name": "Valeryane Chanteloup",
+    "avatar": "https://zupimages.net/up/23/13/844z.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Callum Barry",
+    "avatar": "https://pile.randimg.net/3/110/215100/callum.png",
+    "house": "#DB415B"
   }
+],
+"links" : [
+  {
+    "source": "Joan Bronson",
+    "target": "Helen Mason",
+    "type": "#8bbbe8"
+  },
+  {
+    "source": "Bo-Ra Gang",
+    "target": "Helen Mason",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Alysse Seth",
+    "target": "Lily Seth",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "Joan Bronson",
+    "target": "Mortimer Chanteloup",
+    "type": "#d9d2e9"
+  },
+  {
+    "source": "Helen Mason",
+    "target": "Caspian Matkovic",
+    "type": "#8d5c87"
+  },
+  {
+    "source": "Lily Seth",
+    "target": "Caspian Matkovic",
+    "type": "#8bbbe8"
+  },
+  {
+    "source": "Alysse Seth",
+    "target": "Caspian Matkovic",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Valeryane Chanteloup",
+    "target": "Mortimer Chanteloup",
+    "type": "#f23060"
+  },
+  {
+    "source": "Valeryane Chanteloup",
+    "target": "Joan Bronson",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Caspian Matkovic",
+    "type": "#fdc918"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Alysse Seth",
+    "type": "#f23060"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Joan Bronson",
+    "type": "#d9d2e9"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Hob Kendal",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Eliott Fauvel",
+    "target": "Alysse Seth",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "Eliott Fauvel",
+    "target": "Bo-Ra Gang",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Eliott Fauvel",
+    "target": "Helen Mason",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Eliott Fauvel",
+    "target": "Maxine Dupuy",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Callum Barry",
+    "target": "Hob Kendal",
+    "type": "#8bbbe8"
+  },
+  {
+    "source": "Mortimer Chanteloup",
+    "target": "Bo-Ra Gang",
+    "type": "#c483ec"
+  }
+]}
