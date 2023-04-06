@@ -103,6 +103,26 @@
     "name": "Leto Bell",
     "avatar": "https://cdn.discordapp.com/attachments/963054892296060989/1066092903191023786/Polish_20230120_153148668.jpg",
     "house": "#9279A6"
+  },
+  {
+    "name": "Fidji Cruz",
+    "avatar": "https://pile.randimg.net/3/100/212551/Fidji.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "D\u00e9sir\u00e9 Chanteloup",
+    "avatar": "https://pile.randimg.net/3/70/205103/DCAV.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Irina Alekseeva",
+    "avatar": "https://pile.randimg.net/3/119/217307/Irina.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Wren Momsen",
+    "avatar": "https://media.discordapp.net/attachments/1061299847203934359/1092548109688639639/be6fdfe73a08c9a5594623e1e42f4764.png",
+    "house": "#5C9BD6"
   }
 ],
 "links" : [
@@ -162,6 +182,18 @@
   },
   {
     "source": "Alexis Ross",
+    "target": "Ilya Matkovic",
+    "description": "Suspicion",
+    "type": "#d9d2e9"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Celian Dresdell",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Alexis Ross",
     "target": "Caspian Matkovic",
     "description": "Meilleur\u2022e\u2022s ami\u2022e\u2022s",
     "type": "#fdc918"
@@ -195,6 +227,12 @@
     "target": "Bo-Ra Gang",
     "description": "Ami\u2022e\u2022s d'enfance",
     "type": "#ffe077"
+  },
+  {
+    "source": "Eliott Fauvel",
+    "target": "Celian Dresdell",
+    "description": "Famille",
+    "type": "#b6ce88"
   },
   {
     "source": "Eliott Fauvel",
@@ -345,5 +383,65 @@
     "target": "Maxine Dupuy",
     "description": "Tension",
     "type": "#c07373"
+  },
+  {
+    "source": "Joan Bronson",
+    "target": "Ilya Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Joan Bronson",
+    "target": "Willow Delacroix",
+    "description": "Connaissances",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Helen Mason",
+    "target": "Ilya Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Fidji Cruz",
+    "target": "Eliott Fauvel",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Fidji Cruz",
+    "target": "Caspian Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Mortimer Chanteloup",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Valeryane Chanteloup",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Celian Dresdell",
+    "description": "Ennemi\u2022es",
+    "type": "#ae2d2d"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Maxine Dupuy",
+    "description": "Coll\u00e8gues",
+    "type": "#8bbbe8"
+  },
+  {
+    "source": "Lily Seth",
+    "target": "Ilya Matkovic",
+    "description": "Coll\u00e8gues",
+    "type": "#8bbbe8"
   }
 ]}
