@@ -1,0 +1,78 @@
+:root {
+    --sub-color : #F5FBEF;
+    --main-color : #92AD94;
+}
+
+.ficheintro_mainframe{
+    font-family: Helvetica, sans-serif; 
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px; 
+    padding: 20px; 
+    width: 480px; 
+    height: 500px; 
+    background-color: var(--main-color);
+}
+
+.ficheintro_pictureframe{
+    height: 135px; 
+    border-style: solid ;
+    border-width: 3px;
+    background-size: cover;
+    background-color: var(--sub-color);
+}
+
+.ficheintro_title{
+    position: relative; 
+    z-index: 1; 
+    text-align: center; 
+    font-family: Impact; 
+    font-size: 32px;  
+    color: var(--main-color); 
+    text-shadow: 2px 2px var(--sub-color); 
+    -webkit-text-stroke: 1px var(--sub-color);
+}
+
+.ficheintro_topinfo{
+    display: inline-grid; 
+    grid-template-columns: 135px 324px; 
+    column-gap: 21px; 
+    width: 100%
+}
+
+.ficheintro_bottominfo{
+    display: inline-grid; 
+    grid-template-columns: 155px 302px; 
+    column-gap: 21px; 
+    width:100%
+}
+
+.ficheintro_dataframe{
+    position: relative; 
+    top: -10px; 
+    background-color: #e4eadf;
+    padding: 10px;
+    overflow: auto;
+}
+
+.ficheintro_eventbox{
+    padding: 0px;
+}
+
+.bysatoru_base{
+    height: auto; 
+    width: 520px; 
+    text-align: center;
+    background-color: var(--sub-color); 
+    padding-top: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bysatoru_logo{
+    height: 40px; 
+    width: 40px; 
+    margin: auto; 
+    background-color: var(--sub-color); 
+    border-radius: 25px; 
+    background-image: url(https://i.imgur.com/YY85NGT.png); 
+    background-size: cover;
+}

@@ -1,7 +1,7 @@
 {"nodes" : [
   {
     "name": "Hob Kendal",
-    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/hob110.png",
+    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/kdo_ho10.png",
     "house": "#DB415B"
   },
   {
@@ -122,6 +122,26 @@
   {
     "name": "Wren Momsen",
     "avatar": "https://media.discordapp.net/attachments/1061299847203934359/1092548109688639639/be6fdfe73a08c9a5594623e1e42f4764.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Sasha Johnson",
+    "avatar": "https://zupimages.net/up/23/14/5ca5.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Kaien Scheinder",
+    "avatar": "https://i.imgur.com/MBOItEh.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Kayla Amrant",
+    "avatar": "https://zupimages.net/up/23/14/pcq0.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Carmine Rilke",
+    "avatar": "https://media.discordapp.net/attachments/907676174367477851/1098595589639393350/carmine_2.png?width=394&height=630",
     "house": "#5C9BD6"
   }
 ],
@@ -443,5 +463,89 @@
     "target": "Ilya Matkovic",
     "description": "Coll\u00e8gues",
     "type": "#8bbbe8"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Irina Alekseeva",
+    "description": "Employ\u00e9\u2022e",
+    "type": "#0b5394"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Bo-Ra Gang",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Fidji Cruz",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Ilya Matkovic",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Caspian Matkovic",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Kaien Scheinder",
+    "target": "Sasha Johnson",
+    "description": "Meilleur\u2022e\u2022s ami\u2022e\u2022s",
+    "type": "#fdc918"
+  },
+  {
+    "source": "Kaien Scheinder",
+    "target": "Daiam M. Wymer",
+    "description": "Crush",
+    "type": "#eda1d3"
+  },
+  {
+    "source": "Irina Alekseeva",
+    "target": "Mortimer Chanteloup",
+    "description": "Ami\u2022e\u2022s d'enfance",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Wren Momsen",
+    "target": "Sasha Johnson",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Wren Momsen",
+    "target": "Bo-Ra Gang",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Kayla Amrant",
+    "target": "Hob Kendal",
+    "description": "Connaissances",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Carmine Rilke",
+    "target": "Wren Momsen",
+    "description": "Aide",
+    "type": "#008c17"
+  },
+  {
+    "source": "Carmine Rilke",
+    "target": "Caspian Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Carmine Rilke",
+    "target": "Irina Alekseeva",
+    "description": "Famille",
+    "type": "#b6ce88"
   }
 ]}
