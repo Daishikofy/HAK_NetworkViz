@@ -1,7 +1,7 @@
 {"nodes" : [
   {
     "name": "Hob Kendal",
-    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/hob110.png",
+    "avatar": "https://i13.servimg.com/u/f13/14/67/62/81/kdo_ho10.png",
     "house": "#DB415B"
   },
   {
@@ -61,8 +61,88 @@
   },
   {
     "name": "Callum Barry",
-    "avatar": "https://pile.randimg.net/3/110/215100/callum.png",
+    "avatar": "https://i.imgur.com/5oBgq8T.png",
     "house": "#DB415B"
+  },
+  {
+    "name": "Ilya Matkovic",
+    "avatar": "https://www.zupimages.net/up/22/30/th18.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Celian Dresdell",
+    "avatar": "https://www.zupimages.net/up/22/06/4ve9.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Willow Delacroix",
+    "avatar": "https://www.zupimages.net/up/22/21/moqb.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Daiam M. Wymer",
+    "avatar": "https://www.zupimages.net/up/23/02/6s8g.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Florianne Reyes",
+    "avatar": "https://i.imgur.com/03efWyJ.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Yara de Rivera",
+    "avatar": "https://www.zupimages.net/up/22/26/e8fn.jpeg",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Aadhyasri Mehrothra",
+    "avatar": "https://www.zupimages.net/up/22/45/47zq.jpg",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Leto Bell",
+    "avatar": "https://cdn.discordapp.com/attachments/963054892296060989/1066092903191023786/Polish_20230120_153148668.jpg",
+    "house": "#9279A6"
+  },
+  {
+    "name": "Fidji Cruz",
+    "avatar": "https://pile.randimg.net/3/100/212551/Fidji.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "D\u00e9sir\u00e9 Chanteloup",
+    "avatar": "https://pile.randimg.net/3/70/205103/DCAV.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Irina Alekseeva",
+    "avatar": "https://pile.randimg.net/3/119/217307/Irina.png",
+    "house": "#DB415B"
+  },
+  {
+    "name": "Wren Momsen",
+    "avatar": "https://media.discordapp.net/attachments/1061299847203934359/1092548109688639639/be6fdfe73a08c9a5594623e1e42f4764.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Sasha Johnson",
+    "avatar": "https://zupimages.net/up/23/14/5ca5.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Kaien Scheinder",
+    "avatar": "https://i.imgur.com/MBOItEh.png",
+    "house": "#F79E4F"
+  },
+  {
+    "name": "Kayla Amrant",
+    "avatar": "https://zupimages.net/up/23/14/pcq0.png",
+    "house": "#5C9BD6"
+  },
+  {
+    "name": "Carmine Rilke",
+    "avatar": "https://media.discordapp.net/attachments/907676174367477851/1098595589639393350/carmine_2.png?width=394&height=630",
+    "house": "#5C9BD6"
   }
 ],
 "links" : [
@@ -81,8 +161,8 @@
   {
     "source": "Alysse Seth",
     "target": "Lily Seth",
-    "description": "Famille",
-    "type": "#b6ce88"
+    "description": "Tension",
+    "type": "#c07373"
   },
   {
     "source": "Joan Bronson",
@@ -105,8 +185,8 @@
   {
     "source": "Alysse Seth",
     "target": "Caspian Matkovic",
-    "description": "Ami\u2022e\u2022s ",
-    "type": "#fff0bd"
+    "description": "Ami\u2022e\u2022s d'enfance",
+    "type": "#ffe077"
   },
   {
     "source": "Valeryane Chanteloup",
@@ -119,6 +199,18 @@
     "target": "Joan Bronson",
     "description": "Connaissances",
     "type": "#cbf7ff"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Ilya Matkovic",
+    "description": "Suspicion",
+    "type": "#d9d2e9"
+  },
+  {
+    "source": "Alexis Ross",
+    "target": "Celian Dresdell",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
   },
   {
     "source": "Alexis Ross",
@@ -158,6 +250,12 @@
   },
   {
     "source": "Eliott Fauvel",
+    "target": "Celian Dresdell",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "Eliott Fauvel",
     "target": "Helen Mason",
     "description": "Connaissances",
     "type": "#cbf7ff"
@@ -179,5 +277,275 @@
     "target": "Bo-Ra Gang",
     "description": "Rival\u2022e\u2022aux",
     "type": "#c483ec"
+  },
+  {
+    "source": "Maxine Dupuy",
+    "target": "Joan Bronson",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Caspian Matkovic",
+    "target": "Ilya Matkovic",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "Maxine Dupuy",
+    "target": "Willow Delacroix",
+    "description": "Ami\u2022e\u2022s d'enfance",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Mortimer Chanteloup",
+    "target": "Daiam M. Wymer",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Celian Dresdell",
+    "target": "Caspian Matkovic",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Alysse Seth",
+    "target": "Celian Dresdell",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "Alysse Seth",
+    "target": "Ilya Matkovic",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Florianne Reyes",
+    "target": "Celian Dresdell",
+    "description": "Couple",
+    "type": "#f23060"
+  },
+  {
+    "source": "Florianne Reyes",
+    "target": "Alysse Seth",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Florianne Reyes",
+    "target": "Alexis Ross",
+    "description": "Meilleur\u2022e\u2022s ami\u2022e\u2022s",
+    "type": "#fdc918"
+  },
+  {
+    "source": "Florianne Reyes",
+    "target": "Daiam M. Wymer",
+    "description": "Connaissances",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Aadhyasri Mehrothra",
+    "target": "Daiam M. Wymer",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "Aadhyasri Mehrothra",
+    "target": "Caspian Matkovic",
+    "description": "Crush",
+    "type": "#eda1d3"
+  },
+  {
+    "source": "Aadhyasri Mehrothra",
+    "target": "Ilya Matkovic",
+    "description": "Ami\u2022e\u2022s d'enfance",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Aadhyasri Mehrothra",
+    "target": "Lily Seth",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Aadhyasri Mehrothra",
+    "target": "Helen Mason",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Yara de Rivera",
+    "target": "Willow Delacroix",
+    "description": "Meilleur\u2022e\u2022s ami\u2022e\u2022s",
+    "type": "#fdc918"
+  },
+  {
+    "source": "Yara de Rivera",
+    "target": "Celian Dresdell",
+    "description": "Exs",
+    "type": "#8d5c87"
+  },
+  {
+    "source": "Yara de Rivera",
+    "target": "Ilya Matkovic",
+    "description": "Crush",
+    "type": "#eda1d3"
+  },
+  {
+    "source": "Yara de Rivera",
+    "target": "Alexis Ross",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Helen Mason",
+    "target": "Maxine Dupuy",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Joan Bronson",
+    "target": "Ilya Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Joan Bronson",
+    "target": "Willow Delacroix",
+    "description": "Connaissances",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Helen Mason",
+    "target": "Ilya Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Fidji Cruz",
+    "target": "Eliott Fauvel",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Fidji Cruz",
+    "target": "Caspian Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Mortimer Chanteloup",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Valeryane Chanteloup",
+    "description": "Famille",
+    "type": "#b6ce88"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Celian Dresdell",
+    "description": "Ennemi\u2022es",
+    "type": "#ae2d2d"
+  },
+  {
+    "source": "D\u00e9sir\u00e9 Chanteloup",
+    "target": "Maxine Dupuy",
+    "description": "Coll\u00e8gues",
+    "type": "#8bbbe8"
+  },
+  {
+    "source": "Lily Seth",
+    "target": "Ilya Matkovic",
+    "description": "Coll\u00e8gues",
+    "type": "#8bbbe8"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Irina Alekseeva",
+    "description": "Employ\u00e9\u2022e",
+    "type": "#0b5394"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Bo-Ra Gang",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Fidji Cruz",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Ilya Matkovic",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Sasha Johnson",
+    "target": "Caspian Matkovic",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Kaien Scheinder",
+    "target": "Sasha Johnson",
+    "description": "Meilleur\u2022e\u2022s ami\u2022e\u2022s",
+    "type": "#fdc918"
+  },
+  {
+    "source": "Kaien Scheinder",
+    "target": "Daiam M. Wymer",
+    "description": "Crush",
+    "type": "#eda1d3"
+  },
+  {
+    "source": "Irina Alekseeva",
+    "target": "Mortimer Chanteloup",
+    "description": "Ami\u2022e\u2022s d'enfance",
+    "type": "#ffe077"
+  },
+  {
+    "source": "Wren Momsen",
+    "target": "Sasha Johnson",
+    "description": "Tension",
+    "type": "#c07373"
+  },
+  {
+    "source": "Wren Momsen",
+    "target": "Bo-Ra Gang",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Kayla Amrant",
+    "target": "Hob Kendal",
+    "description": "Connaissances",
+    "type": "#cbf7ff"
+  },
+  {
+    "source": "Carmine Rilke",
+    "target": "Wren Momsen",
+    "description": "Aide",
+    "type": "#008c17"
+  },
+  {
+    "source": "Carmine Rilke",
+    "target": "Caspian Matkovic",
+    "description": "Ami\u2022e\u2022s ",
+    "type": "#fff0bd"
+  },
+  {
+    "source": "Carmine Rilke",
+    "target": "Irina Alekseeva",
+    "description": "Famille",
+    "type": "#b6ce88"
   }
 ]}
