@@ -1,5 +1,6 @@
 :root {
-    --sub-color : #F5FBEF;
+    --sub-color-01 : #F5FBEF;
+    --sub-color-02 : #e4eadf;
     --main-color : #92AD94;
 }
 
@@ -18,7 +19,7 @@
     border-style: solid ;
     border-width: 3px;
     background-size: cover;
-    background-color: var(--sub-color);
+    background-color: var(--sub-color-01);
 }
 
 .ficheintro_title{
@@ -28,8 +29,8 @@
     font-family: Impact; 
     font-size: 32px;  
     color: var(--main-color); 
-    text-shadow: 2px 2px var(--sub-color); 
-    -webkit-text-stroke: 1px var(--sub-color);
+    text-shadow: 2px 2px var(--sub-color-01); 
+    -webkit-text-stroke: 1px var(--sub-color-01);
 }
 
 .ficheintro_topinfo{
@@ -49,7 +50,7 @@
 .ficheintro_dataframe{
     position: relative; 
     top: -10px; 
-    background-color: #e4eadf;
+    background-color: var(--sub-color-02);
     padding: 10px;
     overflow: auto;
 }
@@ -62,7 +63,7 @@
     height: auto; 
     width: 520px; 
     text-align: center;
-    background-color: var(--sub-color); 
+    background-color: var(--sub-color-01); 
     padding-top: 2px;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -71,7 +72,7 @@
     height: 40px; 
     width: 40px; 
     margin: auto; 
-    background-color: var(--sub-color); 
+    background-color: var(--sub-color-01); 
     border-radius: 25px; 
     background-image: url(https://i.imgur.com/YY85NGT.png); 
     background-size: cover;
